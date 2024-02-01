@@ -39,7 +39,6 @@
   padding: 2em;
 }
 
-/* Add styles for PostItem component */
 .PostItem {
   margin-bottom: 1em;
   border: 1px solid #ccc;
@@ -54,8 +53,6 @@
 .PostItem p {
   color: #555;
 }
-
-/* Add styles for pagination buttons */
 .pagination {
   margin-top: 1em;
 }
